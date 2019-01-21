@@ -1,6 +1,8 @@
 {
   "name": "beep",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "605fa492"
 }
